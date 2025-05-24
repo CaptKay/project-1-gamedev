@@ -1,7 +1,7 @@
-# __Project 1 GameDev__
+# __Beat The Odds DOM Board Game__
 ## _ToDos_
 - Brainstorming
-- Game planing
+- Game planning
 - MVP requirement document
 - First sprint planning
 - in progress...
